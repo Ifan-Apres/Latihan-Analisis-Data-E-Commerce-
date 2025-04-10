@@ -49,7 +49,7 @@ Pastikan file `requirements.txt` tersedia di direktori kerja. Isi utamanya menca
 
 ## 📁 File yang Dibutuhkan
 
-- `dashboard.py` → file utama untuk menjalankan Streamlit dashboard
+- `dashboard.py` → file utama untuk menjalankan Streamlit dashboard (dashboard.py berada di All_data.7z)
 - `all_data.csv` → dataset yang dianalisis
 
 ---
